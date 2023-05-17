@@ -30,9 +30,15 @@ for i in ids:
   url = link + id +'/?token=' + token
   response = requests.get(url)
   data = json.loads(response.text)
-  time = data['data']['time']['s']
-  aqi = data['data']['aqi']
-  List = [time, id, aqi]
+  tstamp = data['data']['time']['s']
+  List = [tstamp,station,id]
+  iaqi = ['pm25', 'o3', 'no2', 'so2', 'co', 't', 'p', 'h', 'w']
+  for i in iaqi:
+      if i in data['data']['iaqi']:
+          i = data['data']['iaqi'][i]['v']
+      else:
+          i = 'NA'
+      List.append(i)
   with open('purpleair.csv', 'a') as f:
     writer = csv.writer(f)
     writer.writerow(List)
