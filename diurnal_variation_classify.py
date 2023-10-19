@@ -145,7 +145,7 @@ while n <= 31:
         elif piece[n, 'daytime'].iloc[:,2].mean() < piece[n, 'nighttime'].iloc[:,2].mean():             #Large Ozone nighttime
             df_new.iloc[n-1,2] = 'UCV'
             
-        if (piece[n, 'daytime'].iloc[:,2].mean() > piece[n, 'nighttime'].iloc[:,2].mean()                       #Lagre Ozone daytime
+        if (piece[n, 'daytime'].iloc[:,2].mean() > piece[n, 'nighttime'].iloc[:,2].mean()                       #Large Ozone daytime
             and (piece_rush[n, 'day_rushhour'].iloc[:,3].max() == piece[n, 'daytime'].iloc[:,3].max()          #Large PM daytime rushhour
                  or piece_rush[n, 'night_rushhour'].iloc[:,3].max() == piece[n, 'nighttime'].iloc[:,3].max())):#Large BC nighttime rushhour
             df_new.iloc[n-1,1] = 'RHV'
@@ -170,6 +170,6 @@ while n < len(df):
     n = n+1
 
 #Export to new csv file
-df.to_csv('../Merged Data/ConcentrationLevel_add_'+ file_name + '.csv')
+df.to_csv('data/Dpattern_'+ file_name + '.csv')
 
 
