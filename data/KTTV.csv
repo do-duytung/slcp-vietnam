@@ -12914,3 +12914,507 @@ Cập nhật: 1h  01/11/2023,SocTrang,27°C,"Nhiều mây, không mưa",89,Lặn
 Cập nhật: 4h  01/11/2023,KienGiang,26°C,Đêm nhiều mây,91,Gió bắc đông bắc - tốc độ: 2 m/s
 Cập nhật: 1h  01/11/2023,BacLieu,26°C,"Nhiều mây, không mưa",89,Gió đông bắc - tốc độ: 1 m/s
 Cập nhật: 4h  01/11/2023,CaMau,26°C,Đêm nhiều mây,95,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,Hanoi,23°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 7h  01/11/2023,LaiChau,17°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 7h  01/11/2023,DienBien,19°C,"Nhiều mây, không mưa",96,Lặng gió
+Cập nhật: 7h  01/11/2023,SonLa,17°C,"Mây thay đổi, trời nắng",91,Lặng gió
+Cập nhật: 7h  01/11/2023,HoaBinh,22°C,"Nhiều mây, không mưa",90,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,LaoCai,22°C,"Nhiều mây, không mưa",96,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,YenBai,20°C,"Ít mây, trời nắng",98,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,HaGiang,20°C,"Nhiều mây, không mưa",96,Lặng gió
+Cập nhật: 7h  01/11/2023,TuyenQuang,21°C,"Nhiều mây, không mưa",96,Lặng gió
+Cập nhật: 7h  01/11/2023,BacCan,18°C,"Nhiều mây, không mưa",98,Lặng gió
+Cập nhật: 7h  01/11/2023,ThaiNguyen,21°C,"Ít mây, trời nắng",92,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,PhuTho,23°C,"Nhiều mây, không mưa",85,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,VinhPhuc,23°C,"Nhiều mây, không mưa",88,Lặng gió
+Cập nhật: 7h  01/11/2023,CaoBang,18°C,Có sương mù,100,Lặng gió
+Cập nhật: 7h  01/11/2023,LangSon,17°C,Có sương mù,100,Lặng gió
+Cập nhật: 7h  01/11/2023,QuangNinh,23°C,"Mây thay đổi, trời nắng",85,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BacGiang,22°C,"Ít mây, trời nắng",89,Lặng gió
+Cập nhật: 7h  01/11/2023,BacNinh,23°C,"Nhiều mây, không mưa",93,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,HaiPhong,23°C,"Nhiều mây, không mưa",86,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,HaiDuong,22°C,"Ít mây, trời nắng",93,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,HungYen,23°C,"Mây thay đổi, trời nắng",94,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,NamDinh,24°C,"Nhiều mây, không mưa",92,Lặng gió
+Cập nhật: 7h  01/11/2023,HaNam,24°C,"Ít mây, trời nắng",91,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,NinhBinh,24°C,"Mây thay đổi, trời nắng",89,Lặng gió
+Cập nhật: 7h  01/11/2023,ThaiBinh,23°C,"Nhiều mây, không mưa",93,Gió bắc - tốc độ: 3 m/s
+Cập nhật: 7h  01/11/2023,ThanhHoa,23°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 7h  01/11/2023,NgheAn,24°C,"Nhiều mây, không mưa",96,Lặng gió
+Cập nhật: 7h  01/11/2023,HaTinh,24°C,"Nhiều mây, không mưa",94,Gió tây tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,QuangBinh,24°C,Có mưa,93,Lặng gió
+Cập nhật: 7h  01/11/2023,QuangTri,24°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 7h  01/11/2023,Hue,25°C,"Nhiều mây, không mưa",98,Lặng gió
+Cập nhật: 7h  01/11/2023,DaNang,27°C,Có mưa rào,86,Lặng gió
+Cập nhật: 7h  01/11/2023,QuangNam,26°C,"Nhiều mây, không mưa",96,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,QuangNgai,25°C,"Nhiều mây, không mưa",96,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BinhDinh,26°C,Có mưa,98,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,PhuYen,26°C,Có mưa rào,94,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,KhanhHoa,26°C,"Nhiều mây, không mưa",89,Gió tây tây nam - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,NinhThuan,26°C,"Nhiều mây, không mưa",96,Lặng gió
+Cập nhật: 7h  01/11/2023,BinhThuan,27°C,"Mây thay đổi, trời nắng",85,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,KonTum,24°C,"Nhiều mây, không mưa",83,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,GiaLai,21°C,"Nhiều mây, không mưa",97,Lặng gió
+Cập nhật: 7h  01/11/2023,DacLak,23°C,"Mây thay đổi, trời nắng",93,Gió đông đông nam - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,DacNong,22°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 7h  01/11/2023,LamDong,19°C,"Nhiều mây, không mưa",93,Gió đông bắc - tốc độ: 3 m/s
+Cập nhật: 7h  01/11/2023,BinhPhuoc,23°C,"Nhiều mây, không mưa",99,Lặng gió
+Cập nhật: 7h  01/11/2023,TayNinh,24°C,"Nhiều mây, không mưa",98,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,DongNai,25°C,"Mây thay đổi, trời nắng",93,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BinhDuong,25°C,"Ít mây, trời nắng",96,Lặng gió
+Cập nhật: 7h  01/11/2023,HoChiMinh,26°C,"Ít mây, trời nắng",95,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BRVungTau,27°C,"Nhiều mây, không mưa",89,Gió đông đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,LongAn,26°C,"Nhiều mây, không mưa",87,Lặng gió
+Cập nhật: 7h  01/11/2023,TienGiang,25°C,"Nhiều mây, không mưa",95,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,VinhLong,26°C,"Nhiều mây, không mưa",95,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,BenTre,26°C,"Nhiều mây, không mưa",92,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,DongThap,26°C,"Nhiều mây, không mưa",98,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,TraVinh,26°C,"Nhiều mây, không mưa",97,Lặng gió
+Cập nhật: 7h  01/11/2023,AnGiang,27°C,"Mây thay đổi, trời nắng",85,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,CanTho,26°C,"Mây thay đổi, trời nắng",92,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,HauGiang,27°C,"Ít mây, trời nắng",89,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,SocTrang,27°C,"Nhiều mây, không mưa",90,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,KienGiang,27°C,"Mây thay đổi, trời nắng",88,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,BacLieu,27°C,"Nhiều mây, không mưa",91,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,CaMau,27°C,"Nhiều mây, không mưa",92,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,Hanoi,26°C,"Nhiều mây, không mưa",71,Lặng gió
+Cập nhật: 10h  01/11/2023,LaiChau,22°C,"Ít mây, trời nắng",74,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,DienBien,21°C,"Ít mây, trời nắng",84,Lặng gió
+Cập nhật: 10h  01/11/2023,SonLa,22°C,"Ít mây, trời nắng",82,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HoaBinh,27°C,"Mây thay đổi, trời nắng",69,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,LaoCai,25°C,"Ít mây, trời nắng",84,Gió đông đông nam - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,YenBai,20°C,"Ít mây, trời nắng",98,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HaGiang,25°C,"Ít mây, trời nắng",76,Lặng gió
+Cập nhật: 10h  01/11/2023,TuyenQuang,26°C,"Ít mây, trời nắng",76,Lặng gió
+Cập nhật: 7h  01/11/2023,BacCan,18°C,"Nhiều mây, không mưa",98,Lặng gió
+Cập nhật: 7h  01/11/2023,ThaiNguyen,21°C,"Ít mây, trời nắng",92,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,PhuTho,23°C,"Nhiều mây, không mưa",85,Gió đông - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,VinhPhuc,23°C,"Nhiều mây, không mưa",88,Lặng gió
+Cập nhật: 10h  01/11/2023,CaoBang,20°C,"Nhiều mây, không mưa",91,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,LangSon,25°C,"Nhiều mây, không mưa",68,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,QuangNinh,27°C,"Ít mây, trời nắng",66,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,BacGiang,26°C,"Ít mây, trời nắng",68,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,BacNinh,27°C,"Nhiều mây, không mưa",67,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HaiPhong,28°C,"Nhiều mây, không mưa",61,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HaiDuong,27°C,"Ít mây, trời nắng",70,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HungYen,27°C,"Mây thay đổi, trời nắng",69,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,NamDinh,28°C,"Mây thay đổi, trời nắng",65,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,HaNam,28°C,"Mây thay đổi, trời nắng",67,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,NinhBinh,28°C,"Ít mây, trời nắng",69,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,ThaiBinh,28°C,"Ít mây, trời nắng",67,Gió bắc - tốc độ: 4 m/s
+Cập nhật: 10h  01/11/2023,ThanhHoa,27°C,"Mây thay đổi, trời nắng",75,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,NgheAn,26°C,"Nhiều mây, không mưa",83,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,HaTinh,26°C,"Nhiều mây, không mưa",85,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,QuangBinh,24°C,Có mưa,91,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,QuangTri,24°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 10h  01/11/2023,Hue,28°C,"Nhiều mây, không mưa",87,Gió đông - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,DaNang,28°C,"Nhiều mây, không mưa",80,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,QuangNam,26°C,"Nhiều mây, không mưa",96,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,QuangNgai,27°C,"Nhiều mây, không mưa",91,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,BinhDinh,27°C,"Nhiều mây, không mưa",86,Gió bắc - tốc độ: 3 m/s
+Cập nhật: 10h  01/11/2023,PhuYen,30°C,"Mây thay đổi, trời nắng",81,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,KhanhHoa,30°C,"Mây thay đổi, trời nắng",71,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,NinhThuan,30°C,"Mây thay đổi, trời nắng",81,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,BinhThuan,32°C,"Mây thay đổi, trời nắng",69,Gió đông đông nam - tốc độ: 4 m/s
+Cập nhật: 7h  01/11/2023,KonTum,24°C,"Nhiều mây, không mưa",83,Gió đông - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,GiaLai,25°C,"Nhiều mây, không mưa",81,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,DacLak,26°C,"Nhiều mây, không mưa",82,Gió đông - tốc độ: 3 m/s
+Cập nhật: 10h  01/11/2023,DacNong,26°C,"Mây thay đổi, trời nắng",73,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,LamDong,22°C,"Mây thay đổi, trời nắng",75,Gió đông - tốc độ: 4 m/s
+Cập nhật: 7h  01/11/2023,BinhPhuoc,23°C,"Nhiều mây, không mưa",99,Lặng gió
+Cập nhật: 7h  01/11/2023,TayNinh,24°C,"Nhiều mây, không mưa",98,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,DongNai,25°C,"Mây thay đổi, trời nắng",93,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BinhDuong,25°C,"Ít mây, trời nắng",96,Lặng gió
+Cập nhật: 10h  01/11/2023,HoChiMinh,31°C,"Ít mây, trời nắng",71,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,BRVungTau,32°C,"Nhiều mây, không mưa",65,Gió đông - tốc độ: 3 m/s
+Cập nhật: 7h  01/11/2023,LongAn,26°C,"Nhiều mây, không mưa",87,Lặng gió
+Cập nhật: 7h  01/11/2023,TienGiang,25°C,"Nhiều mây, không mưa",95,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,VinhLong,26°C,"Nhiều mây, không mưa",95,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,BenTre,26°C,"Nhiều mây, không mưa",92,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,DongThap,26°C,"Nhiều mây, không mưa",98,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,TraVinh,26°C,"Nhiều mây, không mưa",97,Lặng gió
+Cập nhật: 7h  01/11/2023,AnGiang,27°C,"Mây thay đổi, trời nắng",85,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 10h  01/11/2023,CanTho,31°C,"Ít mây, trời nắng",73,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,HauGiang,27°C,"Ít mây, trời nắng",89,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 7h  01/11/2023,SocTrang,27°C,"Nhiều mây, không mưa",90,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,KienGiang,30°C,"Nhiều mây, không mưa",80,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 7h  01/11/2023,BacLieu,27°C,"Nhiều mây, không mưa",91,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 10h  01/11/2023,CaMau,30°C,"Nhiều mây, không mưa",73,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,Hanoi,29°C,"Mây thay đổi, trời nắng",59,Lặng gió
+Cập nhật: 13h  01/11/2023,LaiChau,23°C,"Nhiều mây, không mưa",70,Gió đông đông bắc - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,DienBien,28°C,"Ít mây, trời nắng",57,Gió đông - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,SonLa,27°C,"Mây thay đổi, trời nắng",59,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,HoaBinh,30°C,"Ít mây, trời nắng",55,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,LaoCai,29°C,"Ít mây, trời nắng",60,Gió nam đông nam - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,YenBai,30°C,"Ít mây, trời nắng",62,Gió đông nam - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,HaGiang,29°C,"Ít mây, trời nắng",63,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,TuyenQuang,29°C,"Mây thay đổi, trời nắng",58,Gió tây - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,BacCan,30°C,"Ít mây, trời nắng",51,Lặng gió
+Cập nhật: 13h  01/11/2023,ThaiNguyen,30°C,"Mây thay đổi, trời nắng",56,Lặng gió
+Cập nhật: 13h  01/11/2023,PhuTho,29°C,"Ít mây, trời nắng",61,Lặng gió
+Cập nhật: 13h  01/11/2023,VinhPhuc,29°C,"Mây thay đổi, trời nắng",67,Lặng gió
+Cập nhật: 13h  01/11/2023,CaoBang,28°C,"Nhiều mây, không mưa",58,Gió tây - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,LangSon,28°C,"Nhiều mây, không mưa",54,Lặng gió
+Cập nhật: 13h  01/11/2023,QuangNinh,30°C,"Ít mây, trời nắng",65,Gió nam đông nam - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,BacGiang,29°C,"Ít mây, trời nắng",48,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,BacNinh,30°C,"Mây thay đổi, trời nắng",48,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,HaiPhong,30°C,"Ít mây, trời nắng",49,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,HaiDuong,30°C,"Ít mây, trời nắng",50,Gió bắc tây bắc - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,HungYen,30°C,"Ít mây, trời nắng",58,Gió tây bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,NamDinh,30°C,"Mây thay đổi, trời nắng",54,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,HaNam,29°C,"Nhiều mây, không mưa",59,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,NinhBinh,30°C,"Ít mây, trời nắng",55,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,ThaiBinh,30°C,"Mây thay đổi, trời nắng",53,Gió bắc - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,ThanhHoa,28°C,"Mây thay đổi, trời nắng",69,Gió đông - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,NgheAn,27°C,"Nhiều mây, không mưa",77,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,HaTinh,27°C,"Nhiều mây, không mưa",76,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,QuangBinh,25°C,Có mưa,82,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,QuangTri,29°C,"Nhiều mây, không mưa",71,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,Hue,30°C,"Nhiều mây, không mưa",75,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,DaNang,28°C,Có mưa rào,84,Gió bắc đông bắc - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,QuangNam,25°C,Có mưa,99,Gió nam tây nam - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,QuangNgai,28°C,"Nhiều mây, không mưa",89,Lặng gió
+Cập nhật: 13h  01/11/2023,BinhDinh,29°C,"Nhiều mây, không mưa",79,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,PhuYen,32°C,"Mây thay đổi, trời nắng",77,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,KhanhHoa,32°C,"Mây thay đổi, trời nắng",73,Gió đông đông bắc - tốc độ: 6 m/s
+Cập nhật: 13h  01/11/2023,NinhThuan,33°C,"Mây thay đổi, trời nắng",56,Gió bắc đông bắc - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,BinhThuan,32°C,"Mây thay đổi, trời nắng",71,Gió đông đông nam - tốc độ: 8 m/s
+Cập nhật: 13h  01/11/2023,KonTum,28°C,"Nhiều mây, không mưa",69,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,GiaLai,26°C,"Nhiều mây, không mưa",85,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,DacLak,26°C,"Nhiều mây, không mưa",88,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,DacNong,31°C,"Mây thay đổi, trời nắng",61,Lặng gió
+Cập nhật: 13h  01/11/2023,LamDong,23°C,"Mây thay đổi, trời nắng",61,Lặng gió
+Cập nhật: 13h  01/11/2023,BinhPhuoc,31°C,"Mây thay đổi, trời nắng",59,Gió tây bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,TayNinh,34°C,"Mây thay đổi, trời nắng",61,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,DongNai,33°C,"Nhiều mây, không mưa",55,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,BinhDuong,33°C,"Mây thay đổi, trời nắng",63,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,HoChiMinh,33°C,"Mây thay đổi, trời nắng",64,Gió đông - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,BRVungTau,33°C,"Mây thay đổi, trời nắng",62,Gió đông - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,LongAn,32°C,"Nhiều mây, không mưa",60,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,TienGiang,32°C,"Nhiều mây, không mưa",63,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,VinhLong,32°C,"Mây thay đổi, trời nắng",71,Gió bắc đông bắc - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,BenTre,33°C,"Mây thay đổi, trời nắng",69,Gió đông đông nam - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,DongThap,32°C,"Nhiều mây, không mưa",68,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,TraVinh,33°C,"Nhiều mây, không mưa",59,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,AnGiang,32°C,"Mây thay đổi, trời nắng",70,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,CanTho,33°C,"Nhiều mây, không mưa",61,Gió đông đông bắc - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,HauGiang,32°C,"Nhiều mây, không mưa",71,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,SocTrang,33°C,"Nhiều mây, không mưa",65,Lặng gió
+Cập nhật: 13h  01/11/2023,KienGiang,33°C,"Mây thay đổi, trời nắng",65,Gió bắc đông bắc - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,BacLieu,32°C,"Nhiều mây, không mưa",65,Gió đông đông bắc - tốc độ: 5 m/s
+Cập nhật: 13h  01/11/2023,CaMau,28°C,"Nhiều mây, không mưa",85,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,Hanoi,29°C,"Nhiều mây, không mưa",57,Gió nam - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,LaiChau,22°C,"Nhiều mây, không mưa",71,Gió đông nam - tốc độ: 3 m/s
+Cập nhật: 16h  01/11/2023,DienBien,29°C,"Mây thay đổi, trời nắng",54,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,SonLa,26°C,"Ít mây, trời nắng",60,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,HoaBinh,30°C,"Ít mây, trời nắng",52,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,LaoCai,30°C,"Mây thay đổi, trời nắng",58,Gió nam - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,YenBai,30°C,"Ít mây, trời nắng",62,Gió đông nam - tốc độ: 4 m/s
+Cập nhật: 16h  01/11/2023,HaGiang,28°C,"Ít mây, trời nắng",63,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,TuyenQuang,30°C,"Mây thay đổi, trời nắng",56,Lặng gió
+Cập nhật: 13h  01/11/2023,BacCan,30°C,"Ít mây, trời nắng",51,Lặng gió
+Cập nhật: 13h  01/11/2023,ThaiNguyen,30°C,"Mây thay đổi, trời nắng",56,Lặng gió
+Cập nhật: 13h  01/11/2023,PhuTho,29°C,"Ít mây, trời nắng",61,Lặng gió
+Cập nhật: 13h  01/11/2023,VinhPhuc,29°C,"Mây thay đổi, trời nắng",67,Lặng gió
+Cập nhật: 16h  01/11/2023,CaoBang,30°C,"Ít mây, trời nắng",46,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,LangSon,28°C,"Ít mây, trời nắng",47,Lặng gió
+Cập nhật: 16h  01/11/2023,QuangNinh,27°C,"Ít mây, trời nắng",72,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,BacGiang,30°C,"Ít mây, trời nắng",45,Lặng gió
+Cập nhật: 16h  01/11/2023,BacNinh,30°C,"Ít mây, trời nắng",52,Gió nam đông nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HaiPhong,28°C,"Ít mây, trời nắng",69,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HaiDuong,31°C,"Ít mây, trời nắng",44,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HungYen,30°C,"Mây thay đổi, trời nắng",54,Lặng gió
+Cập nhật: 16h  01/11/2023,NamDinh,29°C,"Mây thay đổi, trời nắng",57,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HaNam,29°C,"Mây thay đổi, trời nắng",61,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,NinhBinh,29°C,"Ít mây, trời nắng",66,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,ThaiBinh,20°C,"Ít mây, trời nắng",0,Gió đông - tốc độ: 3 m/s
+Cập nhật: 16h  01/11/2023,ThanhHoa,28°C,"Nhiều mây, không mưa",74,Gió đông - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,NgheAn,26°C,"Nhiều mây, không mưa",85,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HaTinh,26°C,"Nhiều mây, không mưa",79,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,QuangBinh,25°C,"Nhiều mây, không mưa",91,Gió tây tây nam - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,QuangTri,29°C,"Nhiều mây, không mưa",71,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,Hue,28°C,"Nhiều mây, không mưa",77,Gió bắc đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,DaNang,27°C,"Nhiều mây, không mưa",85,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,QuangNam,25°C,Có mưa,99,Gió nam tây nam - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,QuangNgai,26°C,"Nhiều mây, không mưa",95,Gió tây - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,BinhDinh,26°C,Có mưa,92,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,PhuYen,30°C,"Nhiều mây, không mưa",82,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,KhanhHoa,31°C,"Mây thay đổi, trời nắng",80,Gió đông đông bắc - tốc độ: 4 m/s
+Cập nhật: 16h  01/11/2023,NinhThuan,31°C,"Nhiều mây, không mưa",60,Gió đông bắc - tốc độ: 6 m/s
+Cập nhật: 16h  01/11/2023,BinhThuan,31°C,"Mây thay đổi, trời nắng",77,Gió đông - tốc độ: 7 m/s
+Cập nhật: 13h  01/11/2023,KonTum,28°C,"Nhiều mây, không mưa",69,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,GiaLai,24°C,Có mưa rào,88,Lặng gió
+Cập nhật: 16h  01/11/2023,DacLak,30°C,"Mây thay đổi, trời nắng",68,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 16h  01/11/2023,DacNong,28°C,"Nhiều mây, không mưa",73,Lặng gió
+Cập nhật: 16h  01/11/2023,LamDong,23°C,"Mây thay đổi, trời nắng",70,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,BinhPhuoc,31°C,"Mây thay đổi, trời nắng",59,Gió tây bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,TayNinh,34°C,"Mây thay đổi, trời nắng",61,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,DongNai,33°C,"Nhiều mây, không mưa",55,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,BinhDuong,33°C,"Mây thay đổi, trời nắng",63,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,HoChiMinh,31°C,"Nhiều mây, không mưa",82,Gió nam đông nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,BRVungTau,31°C,"Nhiều mây, không mưa",68,Gió đông đông nam - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,LongAn,32°C,"Nhiều mây, không mưa",60,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,TienGiang,32°C,"Nhiều mây, không mưa",63,Gió đông đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,VinhLong,32°C,"Mây thay đổi, trời nắng",71,Gió bắc đông bắc - tốc độ: 4 m/s
+Cập nhật: 13h  01/11/2023,BenTre,33°C,"Mây thay đổi, trời nắng",69,Gió đông đông nam - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,DongThap,32°C,"Nhiều mây, không mưa",68,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,TraVinh,33°C,"Nhiều mây, không mưa",59,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,AnGiang,32°C,"Mây thay đổi, trời nắng",70,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 16h  01/11/2023,CanTho,33°C,"Mây thay đổi, trời nắng",62,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 13h  01/11/2023,HauGiang,32°C,"Nhiều mây, không mưa",71,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 13h  01/11/2023,SocTrang,33°C,"Nhiều mây, không mưa",65,Lặng gió
+Cập nhật: 16h  01/11/2023,KienGiang,30°C,"Nhiều mây, không mưa",82,Gió tây tây nam - tốc độ: 3 m/s
+Cập nhật: 13h  01/11/2023,BacLieu,32°C,"Nhiều mây, không mưa",65,Gió đông đông bắc - tốc độ: 5 m/s
+Cập nhật: 16h  01/11/2023,CaMau,28°C,"Nhiều mây, không mưa",85,Gió nam tây nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,Hanoi,25°C,Đêm có mây,77,Lặng gió
+Cập nhật: 19h  01/11/2023,LaiChau,20°C,Đêm có mây,87,Lặng gió
+Cập nhật: 19h  01/11/2023,DienBien,24°C,Đêm có mây,77,Lặng gió
+Cập nhật: 19h  01/11/2023,SonLa,23°C,Đêm nhiều mây,69,Lặng gió
+Cập nhật: 19h  01/11/2023,HoaBinh,25°C,Đêm có mây,82,Lặng gió
+Cập nhật: 19h  01/11/2023,LaoCai,26°C,Đêm có mây,76,Lặng gió
+Cập nhật: 19h  01/11/2023,YenBai,25°C,Đêm có mây,87,Gió tây tây nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,HaGiang,24°C,Đêm có mây,85,Lặng gió
+Cập nhật: 19h  01/11/2023,TuyenQuang,26°C,Đêm nhiều mây,77,Lặng gió
+Cập nhật: 19h  01/11/2023,BacCan,24°C,Đêm có mây,82,Lặng gió
+Cập nhật: 19h  01/11/2023,ThaiNguyen,26°C,Đêm có mây,68,Lặng gió
+Cập nhật: 19h  01/11/2023,PhuTho,27°C,Đêm có mây,64,Gió nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,VinhPhuc,26°C,Đêm nhiều mây,73,Lặng gió
+Cập nhật: 19h  01/11/2023,CaoBang,22°C,Đêm có mây,84,Lặng gió
+Cập nhật: 19h  01/11/2023,LangSon,21°C,Đêm có mây,79,Lặng gió
+Cập nhật: 19h  01/11/2023,QuangNinh,26°C,Đêm có mây,77,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,BacGiang,26°C,Đêm có mây,63,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,BacNinh,26°C,Đêm có mây,69,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,HaiPhong,24°C,Đêm có mây,81,Gió đông nam - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,HaiDuong,26°C,Đêm có mây,68,Gió nam đông nam - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,HungYen,26°C,Đêm có mây,72,Gió đông nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,NamDinh,26°C,Đêm nhiều mây,79,Gió đông đông nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,HaNam,26°C,Đêm có mây,76,Gió nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,NinhBinh,26°C,Đêm có mây,84,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,ThaiBinh,25°C,Đêm có mây,85,Gió đông nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,ThanhHoa,25°C,Đêm nhiều mây,86,Gió đông - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,NgheAn,25°C,Đêm nhiều mây,89,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,HaTinh,25°C,Đêm nhiều mây,91,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,QuangBinh,26°C,"Nhiều mây, không mưa",80,Gió tây tây bắc - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,QuangTri,24°C,"Nhiều mây, không mưa",89,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,Hue,26°C,Đêm nhiều mây,89,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,DaNang,26°C,Đêm có mưa rào,95,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,QuangNam,25°C,"Nhiều mây, không mưa",100,Gió tây tây bắc - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,QuangNgai,25°C,Đêm có mưa rào,96,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,BinhDinh,26°C,Có mưa,94,Gió bắc đông bắc - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,PhuYen,28°C,Đêm nhiều mây,82,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,KhanhHoa,29°C,Đêm nhiều mây,77,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,NinhThuan,28°C,"Nhiều mây, không mưa",77,Gió bắc đông bắc - tốc độ: 4 m/s
+Cập nhật: 19h  01/11/2023,BinhThuan,30°C,Đêm nhiều mây,78,Gió đông đông bắc - tốc độ: 5 m/s
+Cập nhật: 19h  01/11/2023,KonTum,25°C,"Nhiều mây, không mưa",79,Gió đông - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,GiaLai,23°C,"Nhiều mây, không mưa",89,Lặng gió
+Cập nhật: 19h  01/11/2023,DacLak,25°C,Đêm nhiều mây,88,Gió đông - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,DacNong,24°C,Đêm nhiều mây,92,Lặng gió
+Cập nhật: 19h  01/11/2023,LamDong,19°C,Đêm nhiều mây,91,Lặng gió
+Cập nhật: 19h  01/11/2023,BinhPhuoc,26°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 19h  01/11/2023,TayNinh,24°C,Có mưa rào và dông,97,Gió đông bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,DongNai,27°C,"Nhiều mây, không mưa",89,Lặng gió
+Cập nhật: 19h  01/11/2023,BinhDuong,26°C,"Nhiều mây, không mưa",92,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,HoChiMinh,29°C,"Nhiều mây, không mưa",84,Lặng gió
+Cập nhật: 19h  01/11/2023,BRVungTau,30°C,Đêm nhiều mây,76,Gió đông đông nam - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,LongAn,27°C,"Nhiều mây, không mưa",84,Lặng gió
+Cập nhật: 19h  01/11/2023,TienGiang,29°C,Đêm nhiều mây,84,Gió nam đông nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,VinhLong,29°C,"Nhiều mây, không mưa",79,Lặng gió
+Cập nhật: 19h  01/11/2023,BenTre,29°C,Đêm nhiều mây,82,Gió đông đông nam - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,DongThap,27°C,"Nhiều mây, không mưa",95,Gió đông đông bắc - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,TraVinh,29°C,"Nhiều mây, không mưa",85,Gió đông - tốc độ: 2 m/s
+Cập nhật: 19h  01/11/2023,AnGiang,28°C,"Nhiều mây, không mưa",84,Gió nam tây nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,CanTho,30°C,Đêm nhiều mây,80,Gió nam đông nam - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,HauGiang,28°C,"Nhiều mây, không mưa",79,Gió nam tây nam - tốc độ: 3 m/s
+Cập nhật: 19h  01/11/2023,SocTrang,29°C,"Nhiều mây, không mưa",89,Gió đông - tốc độ: 1 m/s
+Cập nhật: 19h  01/11/2023,KienGiang,27°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 19h  01/11/2023,BacLieu,28°C,"Nhiều mây, không mưa",83,Lặng gió
+Cập nhật: 19h  01/11/2023,CaMau,28°C,"Nhiều mây, không mưa",91,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: ,Hanoi,°C,,,
+Cập nhật: ,LaiChau,°C,,,
+Cập nhật: ,DienBien,°C,,,
+Cập nhật: ,SonLa,°C,,,
+Cập nhật: ,HoaBinh,°C,,,
+Cập nhật: ,LaoCai,°C,,,
+Cập nhật: ,YenBai,°C,,,
+Cập nhật: ,HaGiang,°C,,,
+Cập nhật: ,TuyenQuang,°C,,,
+Cập nhật: ,BacCan,°C,,,
+Cập nhật: ,ThaiNguyen,°C,,,
+Cập nhật: ,PhuTho,°C,,,
+Cập nhật: ,VinhPhuc,°C,,,
+Cập nhật: ,CaoBang,°C,,,
+Cập nhật: ,LangSon,°C,,,
+Cập nhật: ,QuangNinh,°C,,,
+Cập nhật: ,BacGiang,°C,,,
+Cập nhật: ,BacNinh,°C,,,
+Cập nhật: ,HaiPhong,°C,,,
+Cập nhật: ,HaiDuong,°C,,,
+Cập nhật: ,HungYen,°C,,,
+Cập nhật: ,NamDinh,°C,,,
+Cập nhật: ,HaNam,°C,,,
+Cập nhật: ,NinhBinh,°C,,,
+Cập nhật: ,ThaiBinh,°C,,,
+Cập nhật: ,ThanhHoa,°C,,,
+Cập nhật: ,NgheAn,°C,,,
+Cập nhật: ,HaTinh,°C,,,
+Cập nhật: ,QuangBinh,°C,,,
+Cập nhật: ,QuangTri,°C,,,
+Cập nhật: ,Hue,°C,,,
+Cập nhật: ,DaNang,°C,,,
+Cập nhật: ,QuangNam,°C,,,
+Cập nhật: ,QuangNgai,°C,,,
+Cập nhật: ,BinhDinh,°C,,,
+Cập nhật: ,PhuYen,°C,,,
+Cập nhật: ,KhanhHoa,°C,,,
+Cập nhật: ,NinhThuan,°C,,,
+Cập nhật: ,BinhThuan,°C,,,
+Cập nhật: ,KonTum,°C,,,
+Cập nhật: ,GiaLai,°C,,,
+Cập nhật: ,DacLak,°C,,,
+Cập nhật: ,DacNong,°C,,,
+Cập nhật: ,LamDong,°C,,,
+Cập nhật: ,BinhPhuoc,°C,,,
+Cập nhật: ,TayNinh,°C,,,
+Cập nhật: ,DongNai,°C,,,
+Cập nhật: ,BinhDuong,°C,,,
+Cập nhật: ,HoChiMinh,°C,,,
+Cập nhật: ,BRVungTau,°C,,,
+Cập nhật: ,LongAn,°C,,,
+Cập nhật: ,TienGiang,°C,,,
+Cập nhật: ,VinhLong,°C,,,
+Cập nhật: ,BenTre,°C,,,
+Cập nhật: ,DongThap,°C,,,
+Cập nhật: ,TraVinh,°C,,,
+Cập nhật: ,AnGiang,°C,,,
+Cập nhật: ,CanTho,°C,,,
+Cập nhật: ,HauGiang,°C,,,
+Cập nhật: ,SocTrang,°C,,,
+Cập nhật: ,KienGiang,°C,,,
+Cập nhật: ,BacLieu,°C,,,
+Cập nhật: ,CaMau,°C,,,
+Cập nhật: 1h  02/11/2023,Hanoi,24°C,Đêm có mây,91,Lặng gió
+Cập nhật: 1h  02/11/2023,LaiChau,17°C,Đêm có mây,98,Lặng gió
+Cập nhật: 1h  02/11/2023,DienBien,19°C,Đêm có mây,96,Lặng gió
+Cập nhật: 1h  02/11/2023,SonLa,19°C,Đêm có mây,88,Lặng gió
+Cập nhật: 1h  02/11/2023,HoaBinh,22°C,Đêm có mây,93,Lặng gió
+Cập nhật: 1h  02/11/2023,LaoCai,23°C,Đêm nhiều mây,90,Lặng gió
+Cập nhật: 1h  02/11/2023,YenBai,21°C,Đêm có mây,99,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HaGiang,21°C,Đêm nhiều mây,96,Lặng gió
+Cập nhật: 1h  02/11/2023,TuyenQuang,22°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 1h  02/11/2023,BacCan,20°C,Đêm có mây,96,Lặng gió
+Cập nhật: 1h  02/11/2023,ThaiNguyen,23°C,Đêm có mây,88,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,PhuTho,23°C,Đêm có mây,81,Lặng gió
+Cập nhật: 1h  02/11/2023,VinhPhuc,24°C,Đêm nhiều mây,86,Lặng gió
+Cập nhật: 1h  02/11/2023,CaoBang,18°C,Đêm có mây,97,Lặng gió
+Cập nhật: 1h  02/11/2023,LangSon,17°C,Đêm có mây,94,Lặng gió
+Cập nhật: 1h  02/11/2023,QuangNinh,22°C,Đêm có mây,86,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,BacGiang,23°C,Đêm có mây,82,Lặng gió
+Cập nhật: 1h  02/11/2023,BacNinh,23°C,Đêm có mây,90,Lặng gió
+Cập nhật: 1h  02/11/2023,HaiPhong,23°C,Đêm có mây,82,Gió đông bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,HaiDuong,24°C,Đêm có mây,90,Lặng gió
+Cập nhật: 1h  02/11/2023,HungYen,23°C,Đêm có mây,93,Lặng gió
+Cập nhật: 1h  02/11/2023,NamDinh,24°C,Đêm nhiều mây,91,Gió đông - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HaNam,24°C,Đêm có mây,91,Gió nam - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,NinhBinh,23°C,Đêm có mây,95,Gió tây tây nam - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,ThaiBinh,23°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 1h  02/11/2023,ThanhHoa,23°C,"Nhiều mây, không mưa",95,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,NgheAn,23°C,Đêm có mây,95,Gió nam tây nam - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HaTinh,22°C,Đêm có mây,92,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,QuangBinh,23°C,Đêm nhiều mây,91,Lặng gió
+Cập nhật: 1h  02/11/2023,QuangTri,24°C,Đêm có mưa rào,91,Lặng gió
+Cập nhật: 1h  02/11/2023,Hue,25°C,"Nhiều mây, không mưa",95,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,DaNang,25°C,"Nhiều mây, không mưa",91,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,QuangNam,25°C,"Nhiều mây, không mưa",99,Lặng gió
+Cập nhật: 1h  02/11/2023,QuangNgai,25°C,"Nhiều mây, không mưa",97,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,BinhDinh,25°C,"Nhiều mây, không mưa",99,Gió tây tây bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,PhuYen,26°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 1h  02/11/2023,KhanhHoa,27°C,Đêm nhiều mây,83,Lặng gió
+Cập nhật: 1h  02/11/2023,NinhThuan,26°C,Đêm nhiều mây,92,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,BinhThuan,28°C,Đêm nhiều mây,81,Gió bắc tây bắc - tốc độ: 3 m/s
+Cập nhật: 1h  02/11/2023,KonTum,23°C,Đêm nhiều mây,92,Lặng gió
+Cập nhật: 1h  02/11/2023,GiaLai,21°C,Đêm nhiều mây,94,Lặng gió
+Cập nhật: 1h  02/11/2023,DacLak,23°C,Đêm nhiều mây,95,Lặng gió
+Cập nhật: 1h  02/11/2023,DacNong,22°C,Đêm nhiều mây,97,Lặng gió
+Cập nhật: 1h  02/11/2023,LamDong,16°C,Đêm có mây,94,Lặng gió
+Cập nhật: 1h  02/11/2023,BinhPhuoc,24°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 1h  02/11/2023,TayNinh,24°C,"Nhiều mây, không mưa",97,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,DongNai,26°C,Đêm nhiều mây,89,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,BinhDuong,25°C,Đêm nhiều mây,94,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HoChiMinh,27°C,Đêm nhiều mây,95,Lặng gió
+Cập nhật: 1h  02/11/2023,BRVungTau,28°C,Đêm nhiều mây,83,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,LongAn,26°C,"Nhiều mây, không mưa",85,Lặng gió
+Cập nhật: 1h  02/11/2023,TienGiang,26°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 1h  02/11/2023,VinhLong,28°C,Đêm nhiều mây,92,Gió bắc - tốc độ: 3 m/s
+Cập nhật: 1h  02/11/2023,BenTre,28°C,Đêm nhiều mây,92,Gió đông đông nam - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,DongThap,25°C,Đêm nhiều mây,94,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,TraVinh,26°C,Đêm nhiều mây,95,Lặng gió
+Cập nhật: 1h  02/11/2023,AnGiang,27°C,"Nhiều mây, không mưa",89,Lặng gió
+Cập nhật: 1h  02/11/2023,CanTho,28°C,Đêm nhiều mây,93,Gió tây - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HauGiang,28°C,Đêm nhiều mây,91,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,SocTrang,28°C,Đêm nhiều mây,93,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,KienGiang,27°C,"Nhiều mây, không mưa",91,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,BacLieu,28°C,Đêm nhiều mây,91,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,CaMau,27°C,Đêm nhiều mây,95,Lặng gió
+Cập nhật: 4h  02/11/2023,Hanoi,23°C,Đêm có mây,94,Lặng gió
+Cập nhật: 4h  02/11/2023,LaiChau,17°C,Đêm nhiều mây,96,Lặng gió
+Cập nhật: 4h  02/11/2023,DienBien,18°C,Đêm có mây,97,Lặng gió
+Cập nhật: 4h  02/11/2023,SonLa,17°C,Đêm có mây,96,Lặng gió
+Cập nhật: 4h  02/11/2023,HoaBinh,22°C,Đêm có mây,95,Lặng gió
+Cập nhật: 4h  02/11/2023,LaoCai,23°C,Đêm nhiều mây,93,Lặng gió
+Cập nhật: 1h  02/11/2023,YenBai,21°C,Đêm có mây,99,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,HaGiang,21°C,Đêm nhiều mây,98,Lặng gió
+Cập nhật: 4h  02/11/2023,TuyenQuang,21°C,"Nhiều mây, không mưa",94,Lặng gió
+Cập nhật: 1h  02/11/2023,BacCan,20°C,Đêm có mây,96,Lặng gió
+Cập nhật: 1h  02/11/2023,ThaiNguyen,23°C,Đêm có mây,88,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,PhuTho,23°C,Đêm có mây,81,Lặng gió
+Cập nhật: 1h  02/11/2023,VinhPhuc,24°C,Đêm nhiều mây,86,Lặng gió
+Cập nhật: 4h  02/11/2023,CaoBang,17°C,"Nhiều mây, không mưa",100,Lặng gió
+Cập nhật: 4h  02/11/2023,LangSon,16°C,Đêm có mây,95,Lặng gió
+Cập nhật: 4h  02/11/2023,QuangNinh,21°C,Đêm có mây,89,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,BacGiang,21°C,Đêm có mây,92,Lặng gió
+Cập nhật: 4h  02/11/2023,BacNinh,22°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 4h  02/11/2023,HaiPhong,22°C,Đêm có mây,89,Gió bắc - tốc độ: 2 m/s
+Cập nhật: 4h  02/11/2023,HaiDuong,22°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 4h  02/11/2023,HungYen,22°C,Đêm có mây,93,Lặng gió
+Cập nhật: 4h  02/11/2023,NamDinh,23°C,Đêm nhiều mây,95,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,HaNam,23°C,Đêm có mây,94,Lặng gió
+Cập nhật: 4h  02/11/2023,NinhBinh,22°C,Đêm có mây,97,Lặng gió
+Cập nhật: 4h  02/11/2023,ThaiBinh,22°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 4h  02/11/2023,ThanhHoa,24°C,Có sương mù,95,Gió tây - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,NgheAn,23°C,"Nhiều mây, không mưa",97,Gió tây nam - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,HaTinh,22°C,Đêm có mây,93,Gió tây tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,QuangBinh,24°C,Đêm nhiều mây,88,Gió tây tây bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,QuangTri,24°C,Đêm có mưa rào,91,Lặng gió
+Cập nhật: 4h  02/11/2023,Hue,24°C,Đêm có mưa rào,95,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,DaNang,24°C,Có mưa,98,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,QuangNam,25°C,"Nhiều mây, không mưa",99,Lặng gió
+Cập nhật: 4h  02/11/2023,QuangNgai,25°C,"Nhiều mây, không mưa",97,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,BinhDinh,25°C,Có mưa,96,Gió tây bắc - tốc độ: 2 m/s
+Cập nhật: 4h  02/11/2023,PhuYen,26°C,"Nhiều mây, không mưa",92,Lặng gió
+Cập nhật: 4h  02/11/2023,KhanhHoa,26°C,Đêm nhiều mây,82,Gió tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,NinhThuan,25°C,Đêm nhiều mây,92,Gió tây bắc - tốc độ: 2 m/s
+Cập nhật: 4h  02/11/2023,BinhThuan,26°C,Đêm nhiều mây,87,Gió bắc tây bắc - tốc độ: 3 m/s
+Cập nhật: 1h  02/11/2023,KonTum,23°C,Đêm nhiều mây,92,Lặng gió
+Cập nhật: 4h  02/11/2023,GiaLai,20°C,Đêm nhiều mây,93,Gió đông đông bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,DacLak,23°C,Đêm nhiều mây,96,Lặng gió
+Cập nhật: 4h  02/11/2023,DacNong,21°C,Đêm nhiều mây,97,Lặng gió
+Cập nhật: 4h  02/11/2023,LamDong,16°C,Đêm có mây,95,Lặng gió
+Cập nhật: 1h  02/11/2023,BinhPhuoc,24°C,"Nhiều mây, không mưa",95,Lặng gió
+Cập nhật: 1h  02/11/2023,TayNinh,24°C,"Nhiều mây, không mưa",97,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,DongNai,26°C,Đêm nhiều mây,89,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,BinhDuong,25°C,Đêm nhiều mây,94,Gió bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,HoChiMinh,26°C,Đêm có mây,95,Lặng gió
+Cập nhật: 4h  02/11/2023,BRVungTau,27°C,Đêm nhiều mây,87,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 1h  02/11/2023,LongAn,26°C,"Nhiều mây, không mưa",85,Lặng gió
+Cập nhật: 1h  02/11/2023,TienGiang,26°C,"Nhiều mây, không mưa",93,Lặng gió
+Cập nhật: 1h  02/11/2023,VinhLong,28°C,Đêm nhiều mây,92,Gió bắc - tốc độ: 3 m/s
+Cập nhật: 1h  02/11/2023,BenTre,28°C,Đêm nhiều mây,92,Gió đông đông nam - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,DongThap,25°C,Đêm nhiều mây,94,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,TraVinh,26°C,Đêm nhiều mây,95,Lặng gió
+Cập nhật: 1h  02/11/2023,AnGiang,27°C,"Nhiều mây, không mưa",89,Lặng gió
+Cập nhật: 4h  02/11/2023,CanTho,26°C,"Nhiều mây, không mưa",91,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,HauGiang,28°C,Đêm nhiều mây,91,Gió bắc đông bắc - tốc độ: 1 m/s
+Cập nhật: 1h  02/11/2023,SocTrang,28°C,Đêm nhiều mây,93,Gió bắc tây bắc - tốc độ: 1 m/s
+Cập nhật: 4h  02/11/2023,KienGiang,26°C,Có mưa rào và dông,95,Lặng gió
+Cập nhật: 1h  02/11/2023,BacLieu,28°C,Đêm nhiều mây,91,Gió bắc tây bắc - tốc độ: 2 m/s
+Cập nhật: 4h  02/11/2023,CaMau,26°C,"Nhiều mây, không mưa",91,Gió đông bắc - tốc độ: 1 m/s
