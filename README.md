@@ -3,6 +3,11 @@ Inventories of Short-lived Climate Pollutants (black carbon, tropospheric ozone,
 
 This project collect data of air pollutants in Vietnam for public research and study.
 We welcome contributions of all kinds to improve this project.
+
+# Publication
+Do, T. D., & Kita, K. (2022). Variations of short-lived climate pollutants in Hanoi, Vietnam. In Interlocal Adaptations to Climate Change in East and Southeast Asia: Sharing Lessons of Agriculture, Disaster Risk Reduction, and Resource Management (pp. 129-133). Cham: Springer International Publishing.
+Link PDF: https://library.oapen.org/bitstream/handle/20.500.12657/53329/1/978-3-030-81207-2.pdf#page=140
+
 # Crontab
 ```
 * * * * python3 /home/ec2-user/purpleair_download.py
